@@ -12,6 +12,7 @@
 ![shoot.png](https://upload-images.jianshu.io/upload_images/21680686-336a588c317145d8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 3. 飞船撞上UFO失败
 ![fail.png](https://upload-images.jianshu.io/upload_images/21680686-0ec99d8b9fffe794.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+---
+本项目参考自《python编程从入门到实践》
 
 
